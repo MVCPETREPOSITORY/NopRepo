@@ -28,3 +28,12 @@ F:\TestData\Tests\Nop.Tests\bin\Debug\normnfkd.nlp
 F:\TestData\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
 F:\TestData\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
 F:\TestData\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
+F:\RepoData\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+F:\RepoData\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+F:\RepoData\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+F:\RepoData\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+F:\RepoData\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+F:\RepoData\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+F:\RepoData\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+F:\RepoData\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+F:\RepoData\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

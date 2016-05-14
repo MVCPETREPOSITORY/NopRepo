@@ -20,3 +20,14 @@ F:\TestData\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pd
 F:\TestData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
 F:\TestData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
 F:\TestData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+F:\RepoData\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+F:\RepoData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+F:\RepoData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+F:\RepoData\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

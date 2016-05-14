@@ -18,3 +18,13 @@ F:\TestData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.Coun
 F:\TestData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
 F:\TestData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
 F:\TestData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+F:\RepoData\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+F:\RepoData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+F:\RepoData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+F:\RepoData\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
