@@ -121,8 +121,8 @@
                 @Html.NopLabelFor(model => model.BodyOverview):
             </td>
             <td class="adminData">
-                @Html.TextAreaFor(model => model.BodyOverview, new { style = "Width: 500px; Height: 150px;" })
-                @Html.ValidationMessageFor(model => model.BodyOverview)
+                @Html.TextAreaFor(model => model.BodyOverview, new { style = "Width: 500px; Height: 150px;background-color:purple;border:2px solid grey;" })
+                @Html.ValidationMessageFor(model => model.BodyOverview,new{style="fore-color:red;"})
             </td>
         </tr>
         <tr>
